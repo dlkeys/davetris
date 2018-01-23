@@ -1,2 +1,2 @@
 # davetris
-davetris - python - game
+python - davetris - game
